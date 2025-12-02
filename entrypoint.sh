@@ -1,3 +1,5 @@
+#!/bin/sh
+
 echo "== Iniciando inicialização do banco =="
 node init.js
 
